@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_pengaturan"
+        android:icon="@drawable/icon_menupengaturan"
+        android:title="Pengaturan"/>
+
+    <item
+        android:id="@+id/nav_data"
+        android:icon="@drawable/icon_menudata"
+        android:title="Data"/>
+
+    <item
+        android:id="@+id/nav_tentang"
+        android:icon="@drawable/icon_menutentang"
+        android:title="Tentang"/>
+
+</menu>

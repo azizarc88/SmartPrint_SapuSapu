@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "516482603010",
+    "firebase_url": "https://smart-print-cabfe.firebaseio.com",
+    "project_id": "smart-print-cabfe",
+    "storage_bucket": "smart-print-cabfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516482603010:android:2e246459820dfd3d",
+        "android_client_info": {
+          "package_name": "id.backbonedev.smartprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516482603010-91644g18aatk0ht0m3qcjjtm97abgbhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.backbonedev.smartprint",
+            "certificate_hash": "468a74ee2d0d74ee723d764031dfd81ca78ccf3d"
+          }
+        },
+        {
+          "client_id": "516482603010-so9keoruvkltukt2d8a8gfqcak2s2636.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.backbonedev.smartprint",
+            "certificate_hash": "40b7bf8e789dc8b4cd08e843c30e289bb386a6ac"
+          }
+        },
+        {
+          "client_id": "516482603010-3a96orcbsl0gbg7fhql7vh83enp1uh5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALqU05RGKQogfDXPGp7CxNpKG1LailmH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516482603010-3a96orcbsl0gbg7fhql7vh83enp1uh5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
